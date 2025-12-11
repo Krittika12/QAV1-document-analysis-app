@@ -9,7 +9,7 @@ Each supplier provides a **25-worksheet Excel report**, where every worksheet in
 
 Manual verification required:
 
-* **30–60 minutes per file**
+* **60 minutes per file**
 * High cognitive load and repetitive work
 * Risk of **human errors**, inconsistent judgment, and delayed approval cycles
 
