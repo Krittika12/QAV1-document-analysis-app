@@ -3,13 +3,14 @@
 ### Streamlining Multi-Sheet Excel Validation with NLP + Workflow Automation
 
 ## 📌 Problem Statement
+<img width="1339" height="753" alt="image" src="https://github.com/user-attachments/assets/ba05d849-cda8-46b5-8a1a-a6b1c42f64f2" />
 
 Honda receives a **high volume of complex quality analysis reports** from over **50+ parts suppliers**.
 Each supplier provides a **25-worksheet Excel report**, where every worksheet includes **dozens to hundreds of technical quality-check questions**.
 
 Manual verification required:
 
-* **60 minutes per file**
+* **4 to 8hrs per file**
 * High cognitive load and repetitive work
 * Risk of **human errors**, inconsistent judgment, and delayed approval cycles
 
@@ -191,7 +192,7 @@ Initially, embeddings were recomputed for every keyword, resulting in ~30 minute
 
 The automation system transformed a previously manual, error-prone verification process into a fast, reliable, and scalable workflow. By combining a dynamic database design with NLP-driven text cleaning, semantic embedding matching, and performance-optimized processing, the solution delivered measurable operational improvements:
 
-- **90% reduction in verification time** per supplier report (from 60 minutes to under 5 minutes).  
+- **90% reduction in verification time** per supplier report (from 4~8 hrs to under 5 minutes).  
 - **High accuracy** in keyword detection through regex-based noise removal and semantic similarity matching.  
 - **Consistent and reliable validation**, minimizing human errors and improving supplier communication.  
 - **Fully adaptable structure** that supports changing worksheet formats without rewriting logic.  
