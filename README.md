@@ -175,6 +175,18 @@ Initially, embeddings were recomputed for every keyword, resulting in ~30 minute
 - Processing time reduced from **~30 minutes → 2–3 minutes** per Excel file.
 - Improved scalability for large batches and repeated processing workflows.
 
+## Tech Stack
+
+- **Python**
+- **Tkinter** (desktop application UI)
+- **PyInstaller** (application packaging)
+- **BERT (cl-tohoku/bert-base-japanese)** for semantic embeddings
+- **NumPy** for vector operations
+- **Regex** for text cleaning and pattern detection
+- **SQLite** for lightweight, fast local database storage
+- **Pandas** for Excel parsing and data handling
+- **Seaborn** for exploratory data visualization
+
 ## Final Impact
 
 The automation system transformed a previously manual, error-prone verification process into a fast, reliable, and scalable workflow. By combining a dynamic database design with NLP-driven text cleaning, semantic embedding matching, and performance-optimized processing, the solution delivered measurable operational improvements:
