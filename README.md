@@ -21,7 +21,7 @@ These delays directly affected:
 
 There was an urgent need for an automated system that could:
 
-* Parse and validate **25-sheet Excel files**
+* Parse and validate **complex Excel files**
 * Check hundreds of parameters with high accuracy
 * Reduce review time by **80–90%**
 * Ensure consistency, traceability, and structured decision-making
